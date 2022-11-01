@@ -10,3 +10,6 @@ matdrr: DEMO figures of the MATdrr package (https://github.com/chenyk1990/MATdrr
 deblending-time: DEMO figures of the deblending-time package (https://github.com/chenyk1990/deblending-time)
 
 sparse5d: DEMO figures of the sparse5d package (https://github.com/chenyk1990/sparse5d)
+
+pyrfloc: DEMO figures of the pyrfloc package (https://github.com/chenyk1990/pyrfloc)
+
