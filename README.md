@@ -13,3 +13,5 @@ sparse5d: DEMO figures of the sparse5d package (https://github.com/chenyk1990/sp
 
 pyrfloc: DEMO figures of the pyrfloc package (https://github.com/chenyk1990/pyrfloc)
 
+pyekfmm: DEMO figures of the pyekfmm package (https://github.com/chenyk1990/pyekfmm) 
+
