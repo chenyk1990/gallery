@@ -15,3 +15,5 @@ pyrfloc: DEMO figures of the pyrfloc package (https://github.com/chenyk1990/pyrf
 
 pyekfmm: DEMO figures of the pyekfmm package (https://github.com/chenyk1990/pyekfmm) 
 
+pynpre: DEMO figures of the pynpre package (https://github.com/chenyk1990/pynpre) 
+
