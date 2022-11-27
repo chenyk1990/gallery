@@ -17,3 +17,4 @@ pyekfmm: DEMO figures of the pyekfmm package (https://github.com/chenyk1990/pyek
 
 pynpre: DEMO figures of the pynpre package (https://github.com/chenyk1990/pynpre) 
 
+seistr: DEMO figures of the seistr package (https://github.com/chenyk1990/seistr) 
