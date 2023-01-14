@@ -20,3 +20,9 @@ pynpre: DEMO figures of the pynpre package (https://github.com/chenyk1990/pynpre
 pyntfa: DEMO figures of the pynpre package (https://github.com/chenyk1990/pyntfa) 
 
 seistr: DEMO figures of the seistr package (https://github.com/chenyk1990/seistr) 
+
+dasdenoising: DEMO figures of the dasdenoising package (https://github.com/chenyk1990/dasdenoising) 
+
+dasmrrcoh: DEMO figures of the dasmrrcoh package (https://github.com/chenyk1990/dasmrrcoh) 
+
+
