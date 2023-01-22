@@ -26,3 +26,5 @@ dasdenoising: DEMO figures of the dasdenoising package (https://github.com/cheny
 dasmrrcoh: DEMO figures of the dasmrrcoh package (https://github.com/chenyk1990/dasmrrcoh) 
 
 dl1dnoise: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/dl1dnoise) 
+
+eqcct: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/eqcct) 
