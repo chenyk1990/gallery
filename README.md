@@ -7,6 +7,8 @@ pyseisdl: DEMO figures of the pyseisdl package (https://github.com/chenyk1990/py
 
 matdrr: DEMO figures of the MATdrr package (https://github.com/chenyk1990/MATdrr)
 
+matortho: DEMO figures of the MATortho package (https://github.com/chenyk1990/MATortho)
+
 deblending-time: DEMO figures of the deblending-time package (https://github.com/chenyk1990/deblending-time)
 
 sparse5d: DEMO figures of the sparse5d package (https://github.com/chenyk1990/sparse5d)
