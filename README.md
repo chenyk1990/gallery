@@ -30,3 +30,5 @@ dasmrrcoh: DEMO figures of the dasmrrcoh package (https://github.com/chenyk1990/
 dl1dnoise: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/dl1dnoise) 
 
 eqcct: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/eqcct) 
+
+sigrecover: DEMO figures of the SigRecover package (https://github.com/chenyk1990/sigrecover)
