@@ -32,3 +32,5 @@ dl1dnoise: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/
 eqcct: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/eqcct) 
 
 sigrecover: DEMO figures of the SigRecover package (https://github.com/chenyk1990/sigrecover)
+
+txed: DEMO figures of the TXED package (https://github.com/chenyk1990/txed)
