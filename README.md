@@ -38,3 +38,5 @@ txed: DEMO figures of the TXED package (https://github.com/chenyk1990/txed)
 drrglobal: DEMO figures of the DRRGlobal package (https://github.com/chenyk1990/drrglobal)
 
 sc3flow: DEMO figures of the sc3flow package (https://github.com/chenyk1990/sc3flow)
+
+aefa: DEMO figures of the aefa package (https://github.com/chenyk1990/aefa)
