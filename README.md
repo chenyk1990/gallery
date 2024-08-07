@@ -31,6 +31,8 @@ dl1dnoise: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/
 
 eqcct: DEMO figures of the dl1dnoise package (https://github.com/chenyk1990/eqcct) 
 
+eqpolarity: DEMO figures of the aefa package (https://github.com/chenyk1990/eqpolarity)
+
 sigrecover: DEMO figures of the SigRecover package (https://github.com/chenyk1990/sigrecover)
 
 txed: DEMO figures of the TXED package (https://github.com/chenyk1990/txed)
@@ -40,3 +42,4 @@ drrglobal: DEMO figures of the DRRGlobal package (https://github.com/chenyk1990/
 sc3flow: DEMO figures of the sc3flow package (https://github.com/chenyk1990/sc3flow)
 
 aefa: DEMO figures of the aefa package (https://github.com/chenyk1990/aefa)
+
