@@ -43,3 +43,5 @@ sc3flow: DEMO figures of the sc3flow package (https://github.com/chenyk1990/sc3f
 
 aefa: DEMO figures of the aefa package (https://github.com/chenyk1990/aefa)
 
+pywave: DEMO figures of the pywave package (https://github.com/chenyk1990/pywave)
+
