@@ -45,3 +45,5 @@ aefa: DEMO figures of the aefa package (https://github.com/chenyk1990/aefa)
 
 pywave: DEMO figures of the pywave package (https://github.com/chenyk1990/pywave)
 
+PhysLoc-DeepONet: DEMO figures of the pywave package (https://github.com/chenyk1990/physloc-deeponet)
+
